@@ -43,3 +43,5 @@ I am a dedicated problem solver, always seeking efficient ways to turn ideas int
     <img src="https://img.shields.io/badge/LinkedIn-8b5ec1?style=for-the-badge&logoColor=f7f0f" alt="LinkedIn">
   </a>
 </div>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
