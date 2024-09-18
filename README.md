@@ -27,7 +27,7 @@ I am a dedicated problem solver, always seeking efficient ways to turn ideas int
 [![Git](https://img.shields.io/badge/-Git-8b5ec1?style=for-the-badge&logo=git&logoColor=f7f0ff)](#)
 [![WSL](https://img.shields.io/badge/-Wsl-8b5ec1?style=for-the-badge&logo=wslt&logoColor=f7f0ff)](#)
 [![Storybook](https://img.shields.io/badge/-StoryBook-8b5ec1?style=for-the-badge&logo=storybook&logoColor=f7f0ff)](#)
-[![EAM](https://img.shields.io/badge/-EAM-8b5ec1?style=for-the-badge&logo=eam&logoColor=f7f0ff)](#)
+[![AdobeEAM](https://img.shields.io/badge/-AdobeEAM-8b5ec1?style=for-the-badge&logo=adobe&logoColor=f7f0ff)](#)
 [![PostMan](https://img.shields.io/badge/-postman-8b5ec1?style=for-the-badge&logo=postman&logoColor=f7f0ff)](#)
 
 
