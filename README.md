@@ -44,4 +44,3 @@ I am a dedicated problem solver, always seeking efficient ways to turn ideas int
   </a>
 </div>
 
- ![Snake animation](https://github.com/jupliger/jupliger/blob/output/github-contribution-grid-snake.svg)
