@@ -1,4 +1,4 @@
-## Software Developer | Technology Enthusiast | Problem Solver
+## Developer | Technology Enthusiast | Problem Solver
 
 I am a developer with 4 years of experience in creating web applications.
 My passion for technology has led me to explore the world of programming, frameworks, and agile methodologies. 
