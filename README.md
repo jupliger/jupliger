@@ -5,7 +5,7 @@ My passion for technology has led me to explore the world of programming, framew
 I am a dedicated problem solver, always seeking efficient ways to turn ideas into functional code.
 
 Get to know more:
-https://jupliger.github.io/
+https://jupliger.github.io/About-me/
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jupliger&show_icons=true&theme=radical&bg_color=0d1117&title_color=f7f0ff&icon_color=8b5ec1&text_color=8b5ec1&border_color=8b5ec1)](https://github.com/jupliger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jupliger&layout=compact&theme=radical&bg_color=0d1117&title_color=8b5ec1&text_color=8b5ec1&border_color=8b5ec1)](https://github.com/jupliger)
