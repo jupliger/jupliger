@@ -17,6 +17,7 @@ https://jupliger.github.io/About-me/
 [![Next](https://img.shields.io/badge/-Next-8b5ec1?style=for-the-badge&logo=nextjs&logoColor=f7f0ff)](#)
 [![React](https://img.shields.io/badge/-React-8b5ec1?style=for-the-badge&logo=react&logoColor=f7f0ff)](#)
 [![Angular](https://img.shields.io/badge/-Angular-8b5ec1?style=for-the-badge&logo=angular&logoColor=f7f0ff)](#)
+[![Vue](https://img.shields.io/badge/-vue-8b5ec1?style=for-the-badge&logo=vue&logoColor=f7f0ff)](#)
 [![Node](https://img.shields.io/badge/-Node-8b5ec1?style=for-the-badge&logo=node&logoColor=f7f0ff)](#)
 [![HTML](https://img.shields.io/badge/-HTML-8b5ec1?style=for-the-badge&logo=html5&logoColor=f7f0ff)](#)
 [![CSS](https://img.shields.io/badge/-CSS-8b5ec1?style=for-the-badge&logo=css3&logoColor=f7f0ff)](#)
